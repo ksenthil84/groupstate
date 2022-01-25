@@ -1,0 +1,52 @@
+{"InventoryID": "100001", "CreatedTime": "2020-09-09 10:00:00", "Campaigner": "ABC Ltd"}
+{"InventoryID": "100002", "CreatedTime": "2020-09-09 10:06:00", "Campaigner": "ABC Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:02:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100004", "CreatedTime": "2020-09-09 10:09:00", "Campaigner": "XYZ Ltd"}
+
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:02:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:08:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:10:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:11:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:12:00", "Campaigner": "XYZ Ltd"}
+
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:20:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:26:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:27:00", "Campaigner": "XYZ Ltd"}
+
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:28:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:29:00", "Campaigner": "XYZ Ltd"}
+
+
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:31:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:35:00", "Campaigner": "XYZ Ltd"}
+
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:50:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:48:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:47:00", "Campaigner": "XYZ Ltd"}
+
+
+{"InventoryID": "100005", "CreatedTime": "2020-09-09 10:51:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100005", "CreatedTime": "2020-09-09 10:56:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100004", "CreatedTime": "2020-09-09 10:49:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100006", "CreatedTime": "2020-09-09 10:50:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100006", "CreatedTime": "2020-09-09 10:48:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100006", "CreatedTime": "2020-09-09 10:47:00", "Campaigner": "XYZ Ltd"}
+
+
+{"InventoryID": "100005", "CreatedTime": "2020-09-09 10:47:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100005", "CreatedTime": "2020-09-09 10:56:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100004", "CreatedTime": "2020-09-09 10:49:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100006", "CreatedTime": "2020-09-09 10:50:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100006", "CreatedTime": "2020-09-09 10:48:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100006", "CreatedTime": "2020-09-09 10:47:00", "Campaigner": "XYZ Ltd"}
+{"InventoryID": "100006", "CreatedTime": "2020-09-09 10:50:00", "Campaigner": "XYZ Ltd"}
+
+
+{"InventoryID": "100001", "CreatedTime": "2020-09-09 10:18:00"}
+{"InventoryID": "100002", "CreatedTime": "2020-09-09 10:18:00"}
+{"InventoryID": "100003", "CreatedTime": "2020-09-09 10:18:00"}
+{"InventoryID": "100004", "CreatedTime": "2020-09-09 10:18:00"}
+
+{"InventoryID": "100009", "CreatedTime": "2020-09-09 10:06:00", "Campaigner": "ABC Ltd"}
+{"InventoryID": "100009", "CreatedTime": "2020-09-09 10:18:00"}
+{"InventoryID": "100009", "CreatedTime": "2020-09-09 10:19:00"}
